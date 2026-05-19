@@ -1,4 +1,5 @@
 👋 About Me
+
 Hi! I am Lakshmi Prasad, a 3 rd -year B.Tech Computer Science student who is keen on creating software solutions that are practical.
 I have worked in Web Development, and familiar with HTML, CSS, JavaScript, Node.js and MongoDB. I like coming up with full-stack applications that address practical issues and enhance user experiences.
 Currently, I am focused on:
